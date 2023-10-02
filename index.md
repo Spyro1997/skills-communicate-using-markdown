@@ -10,3 +10,13 @@
 ``` java
 System.out.println("Hello World!");
 ```
+## Eamon's awesome blueberry pancake recipe:
+- [ ] Step 1: throw pakcake mix into bowl
+- [ ] Step 2: crack two eggs into bowl
+- [ ] Step 3: pour 1 3/4 cups of milk into bowl
+- [ ] Step 4: Toss in some fresh blueberries
+- [ ] Step 5: Put pan on stovetop and turn to medium heat
+- [ ] Step 6: Pour some pancake mix on heated pan
+- [ ] Step 7: Wait until Gold brown on both sides
+- [ ] Step 8: ......
+- [ ] Step 9: profit
